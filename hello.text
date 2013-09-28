@@ -3,3 +3,18 @@ bay gio sua o task #4
 
 phan nay nam o task#5, vi du de bi conflict
 hello, i can view conflict, va gio thich thi nhich
+
+git checkout = gco
+git status = gst
+git commit = gcm
+git log --oneline = glo
+git add = ga
+git add . = gaa
+git rebase = grb
+git diff = gdf
+git fetch = gf
+git reset = grs
+git stash = gsth
+git stash pop = gsthp
+git clean = gcl
+git show --stat = gsst
